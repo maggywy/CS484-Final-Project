@@ -1,2 +1,2 @@
-CS484-Final-Project
+Class Final-Project
 ===================
